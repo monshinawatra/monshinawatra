@@ -16,11 +16,19 @@ class MyProfile:
 me = MyProfile()
 ```
 
-# 🔧 อุปกรณ์และเทคโนโลยีที่สามารถใช้ได้ & กำลังศึกษา
+# 🔧 อุปกรณ์และเทคโนโลยีที่และภาษาสามารถใช้ได้
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Csharp](https://img.shields.io/badge/-C-05122A?style=flat&logo=C-sharp&logoColor=A8B9CC)&nbsp;
+Language
+![Python](https://img.shields.io/badge/-Python-E8E8F3?style=flat&logo=python)&nbsp;
+![Csharp](https://img.shields.io/badge/-C#-E8E8F3?style=flat&logo=C-sharp&logoColor=A8B9CC)&nbsp;
+
+Tools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-E8E8F3?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-E8E8F3?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-E8E8F3?style=flat&logo=adobe-photoshop)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-E8E8F3?style=flat&logo=unity)&nbsp;
+
 
 # 💹 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monchinawat&hide=shaderlab,hlsl&layout=compact&title_color=E8E8F3&text_color=E8E8F3&icon_color=6aa6f8&bg_color=22272e" alt="Monchinawat Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monchinawat&hide=shaderlab,hlsl&layout=compact&theme=prussian&title_color=E8E8F3&text_color=E8E8F3&icon_color=6aa6f8&bg_color=22272e" alt="Monchinawat Github Stats" />
 
