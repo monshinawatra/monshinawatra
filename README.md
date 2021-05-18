@@ -30,5 +30,5 @@ Tools
 
 
 # 💹 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monchinawat&hide=shaderlab,hlsl&layout=compact&theme=prussian&title_color=E8E8F3&text_color=E8E8F3&icon_color=6aa6f8&bg_color=22272e" alt="Monchinawat Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monchinawat&hide=shaderlab,hlsl&layout=compact&theme=dark&show_icons=true" alt="Monchinawat Github Stats" />
 
