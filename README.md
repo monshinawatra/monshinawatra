@@ -21,7 +21,7 @@ me = MyProfile()
 Language
 
 ![Python](https://img.shields.io/badge/-Python-2D333B?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C#-2D333B?style=flat&logo=#239120)&nbsp;
+![](https://img.shields.io/badge/-C_Sharp-2D333B?style=flat&logo=c-sharp)&nbsp;
 
 
 Tools
