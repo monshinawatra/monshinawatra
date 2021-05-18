@@ -33,7 +33,10 @@ Tools
 
 
 
+
 # 💪 Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshinawatra&hide=shaderlab,hlsl&layout=compact&theme=prussian&show_icons=true" alt="Monchinawat Github Stats" />
-
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshinawatra&hide=shaderlab,hlsl&layout=compact&theme=prussian&show_icons=true" alt="Monchinawat Github Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monshinawatra&layout=compact&langs_count=8&theme=prussian"" alt="Monchinawat Github Stats" />
+</p>
