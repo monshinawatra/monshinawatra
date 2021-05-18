@@ -18,13 +18,13 @@ me = MyProfile()
 
 # 🔧 อุปกรณ์ เทคโนโลยีและภาษาที่สามารถใช้ได้
 
-##Language:
+Language:
 
 ![Python](https://img.shields.io/badge/-Python-2D333B?style=flat&logo=python)&nbsp;
 ![](https://img.shields.io/badge/-C_Sharp-2D333B?style=flat&logo=c-sharp)&nbsp;
 
 
-##Tools:
+Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2D333B?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-2D333B?style=flat&logo=adobe-illustrator)&nbsp;
