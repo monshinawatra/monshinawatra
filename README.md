@@ -19,16 +19,21 @@ me = MyProfile()
 # 🔧 อุปกรณ์และเทคโนโลยีที่และภาษาสามารถใช้ได้
 
 Language
-![Python](https://img.shields.io/badge/-Python-E8E8F3?style=flat&logo=python)&nbsp;
-![Csharp](https://img.shields.io/badge/-C#-E8E8F3?style=flat&logo=C-sharp&logoColor=A8B9CC)&nbsp;
+
+![Python](https://img.shields.io/badge/-Python-2D333B?style=flat&logo=python)&nbsp;
+![Csharp](https://img.shields.io/badge/-C#-2D333B?style=flat&logo=C-sharp&logoColor=A8B9CC)&nbsp;
+
 
 Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-E8E8F3?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-E8E8F3?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-E8E8F3?style=flat&logo=adobe-photoshop)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-E8E8F3?style=flat&logo=unity)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2D333B?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-2D333B?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-2D333B?style=flat&logo=adobe-photoshop)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-2D333B?style=flat&logo=unity)&nbsp;
 
 
-# 💹 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monchinawat&hide=shaderlab,hlsl&layout=compact&theme=dark&show_icons=true" alt="Monchinawat Github Stats" />
+
+# 💪 Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshinawatra&hide=shaderlab,hlsl&layout=compact&theme=prussian&show_icons=true" alt="Monchinawat Github Stats" />
 
