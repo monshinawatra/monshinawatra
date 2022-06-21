@@ -1,7 +1,7 @@
 # 👋 Hello there,
 
 - 💂‍♂️ Nice to meet you. My name is Shinawatra Nachaithong
-- 🎓 -
+- 🎓 - Studying at King mongkut's university of technology thonburi
 
 ```python
 class MyProfile:
