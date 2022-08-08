@@ -3,7 +3,7 @@
 - 💂‍♂️ Nice to meet you. My name is Shinawatra Nachaithong
 - 🎓 I'm studying at King mongkut's university of technology thonburi
 - 🔭 I’m currently working on pedestrian-tracking
-- I'm python developer.
+- 🐍 I'm python developer.
 
 
 ```python
