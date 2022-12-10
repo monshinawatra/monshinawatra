@@ -11,7 +11,7 @@ class MyProfile:
     def __init__(self):
         self.name = "Shinawatra Nachaithong"
         self.role = "Student"
-        self.age = "18"
+        self.age = 19
         self.nationality = "Thai"
 
 me = MyProfile()
