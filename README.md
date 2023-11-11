@@ -1,6 +1,6 @@
 # 👋 Hello there,
 <img align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" style="width: 400px"></img>
-- 💂‍♂️ Nice to meet you. My name is Shinawatra Nachaithong
+- 💂‍♂️ Nice to meet you. My name is Chinavat Nachaithong
 - 🎓 I'm studying at King mongkut's university of technology thonburi
 - 🔭 I’m currently working on pedestrian-tracking and TH-EN Image OCR
 - 🐍 I'm python developer.
