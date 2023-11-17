@@ -3,7 +3,7 @@
 - 💂‍♂️ Nice to meet you. My name is Chinavat Nachaithong
 - 🎓 I'm studying at King mongkut's university of technology thonburi
 - 🔭 I’m currently working on pedestrian-tracking and TH-EN Image OCR
-- 🐍 I'm python developer.
+- 🐍 I'm full-stack developer.
 
 
 ```python
@@ -18,9 +18,13 @@ me = MyProfile()
 ```
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshinawatra&hide=jupyter%20notebook&layout=compact&theme=dracula&show_icons=true" alt="Monchinawat Github Stats" />
-
-<br><br><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshinawatra&hide=jupyter%20notebook&layout=compact&theme=dracula&show_icons=true" alt="Monchinawat Github Stats" /> 
+<br><br><br><br><br>
+<h3> Tech stack </h3>
+<a align="left" href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,react,docker,c,cs,cpp,python,pytorch,javascript,typescript,vite,tailwindcss" />
+</a>
+<br><br><br>
 
 ## 🗂️ Highlight Project
 <a href="https://github.com/monshinawatra/ViolenceDetection">
