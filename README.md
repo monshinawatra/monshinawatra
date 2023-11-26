@@ -9,7 +9,7 @@
 ```python
 class MyProfile:
     def __init__(self):
-        self.name = "Shinawatra Nachaithong"
+        self.name = "Chinavat Nachaithong"
         self.role = "Student"
         self.age = 19
         self.nationality = "Thai"
@@ -18,17 +18,19 @@ me = MyProfile()
 ```
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshinawatra&hide=jupyter%20notebook&layout=compact&theme=dracula&show_icons=true" alt="Monchinawat Github Stats" /> 
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monshinawatra&orgs=BetterACS&hide=jupyter%20notebook&layout=compact&theme=dracula&show_icons=true" alt="Monchinawat Github Stats" /> 
 <br><br><br><br><br>
-<h3> Tech stack </h3>
+<h3> Tech stack & Tools </h3>
 <a align="left" href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,react,docker,c,cs,cpp,python,pytorch,javascript,typescript,vite,tailwindcss" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,cpp,javascript,typescript,pytorch,vite,tailwindcss,unity,godot,figma,mysql,mongodb,express,react,nodejs,aws,arduino,git,docker,linux,postman,qt,selenium" />
 </a>
 <br><br><br>
 
 ## 🗂️ Highlight Project
 <a href="https://github.com/monshinawatra/ViolenceDetection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=monshinawatra&repo=ViolenceDetection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Detect violence in a video" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=monshinawatra&include_orgs=true&repo=ViolenceDetection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Detect violence in a video" />
 </a>
 <a href="https://github.com/BetterACS/GHT">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BetterACS&repo=GHT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="A todo list that use gamification theory." />
